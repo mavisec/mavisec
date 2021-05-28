@@ -1,15 +1,18 @@
 
-# Hi there 👋, My name is Rishab Nayyar
-Ethical Hacker with good understanding of Penetration testing methodology and in-depth coding/networking experience, Strong communication skills.
+# Hi there 👋, I am Rishab..!
+- :man_technologist:	I am a Pentester.
+- :computer:	Let's talk about Ethical Hacking.
+- :blue_heart:I enjoy working with Python.
+- 
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+# Skills: 
+PYTHON / C++ / JS / HTML / SQL
 
-Skills: PYTHON / C++ / JS / HTML / SQL
-
+# My Github Stats :
 ![Rishab's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabhacking&show_icons=true&theme=dark)
-  
-![GitHub metrics](https://metrics.lecoq.io/rishabhacking)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhacking)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/rishabhacking)  
+# Get in touch with me:
+
+
