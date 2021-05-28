@@ -6,12 +6,10 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: PYTHON / C++ / JS / HTML / SQL
 
-
+![Rishab's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabhacking&show_icons=true&theme=dark)
+  
+![GitHub metrics](https://metrics.lecoq.io/rishabhacking)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhacking)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabhacking&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/rishabhacking)  
 
 ![Profile views](https://gpvc.arturio.dev/rishabhacking)  
