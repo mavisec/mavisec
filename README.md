@@ -1,6 +1,7 @@
- <img src="https://raw.githubusercontent.com/rishabhacking/rishabhacking/master/final.gif" width="10000000">
+ <img src="https://raw.githubusercontent.com/rishabhacking/rishabhacking/master/bio.gif" width="10000000">
 
-# Hi there <img src="https://raw.githubusercontent.com/rishabhacking/rishabhacking/master/wave.gif" width="30px"> I am Rishab..!
+ # About Me <img src="https://raw.githubusercontent.com/rishabhacking/rishabhacking/master/wave.gif" width="30px"> :
+
 - I am a Pentester :nerd_face:	
 - I have in-depth coding/networking experience :man_technologist:
 - I enjoy working with Python :blue_heart:
