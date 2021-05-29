@@ -7,12 +7,9 @@
 - I have in-depth coding and networking knowledge :man_technologist:
 - I enjoy working with Python :blue_heart:
 - Strong communication skills :speech_balloon:	
-
+- 
 # My Github Stats 📈
-<a href="https://github.com/mavisec">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mavisec&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rishab's GitHub Stats" /></a><a href="https://github.com/mavisec"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavisec&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-
+<a href="https://github.com/mavisec"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mavisec&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rishab's GitHub Stats" /></a><a href="https://github.com/mavisec"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavisec&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" /></a>
 
 # Find me around the web 🌎
 <img align="left" width="150" height="170" src="https://github.com/mavisec/mavisec/blob/main/github-octat.png">
