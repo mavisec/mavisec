@@ -1,4 +1,4 @@
- # Hi, I'm Rishab <img src="https://raw.githubusercontent.com/mavisec/mavisec/master/wave.gif" width="30px"> 
+ # Hi, I'm Rishab <img src="https://raw.githubusercontent.com/mavisec/mavisec/master/wave.gif" width="3px"> 
  
  <img src="https://raw.githubusercontent.com/mavisec/mavisec/master/bio_rishab.gif" width="10000000">
 
