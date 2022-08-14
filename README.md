@@ -1,6 +1,6 @@
  # Hi, I'm Rishab <img src="https://raw.githubusercontent.com/mavisec/mavisec/master/wave.gif" width="30"> 
  
- <img src="https://raw.githubusercontent.com/mavisec/mavisec/master/bio_rishab.gif" width="10000000">
+ <img src="https://raw.githubusercontent.com/mavisec/mavisec/master/bio_rishab.gif" width="1000">
 
  # About Me :technologist:
 - I am a Pentester :nerd_face:	
